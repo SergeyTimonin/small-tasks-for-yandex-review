@@ -7,3 +7,4 @@
 Стараюсь активно заниматься самообразованием и я прохожу он-лайн курсы Data Science от IBM. 
 На текущий момент закончил модули:
  - Python for data Science  https://coursera.org/share/fea9464e0178410048a6f997eaf3f469
+[С указанием ссылки сразу](https://www.google.com)
