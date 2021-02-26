@@ -6,4 +6,7 @@
 Хотел бы сразу уточнить, что на данный момент я не работаю профессионально в Python, но активно стремлюсь к этому стремлюсь.
 Стараюсь активно заниматься самообразованием и я прохожу он-лайн курсы Data Science от IBM. 
 На текущий момент закончил модули:
-[- Python for data Science](https://coursera.org/share/fea9464e0178410048a6f997eaf3f469)
+- [Python for data Science](https://coursera.org/share/fea9464e0178410048a6f997eaf3f469) (Общее введение в Python: форматы данных (листы, списки, сеты), условия (if, elif, while, базовые понятия функций и модулей, Pandas)
+- 
+-  
+-    [Data Analysis with Python](https://coursera.org/share/4d752d88229b41d741b7a9db885ab304)
